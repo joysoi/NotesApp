@@ -11,7 +11,7 @@ Used MVVM, RxJava, LiveData and Room.
 </div>
 
 <div
-margin-left:0px>
+margin-top:10px>
  <img src="https://github.com/joysoi/NotesApp/blob/master/Screenshots/Screenshot_1541181811.png" 
  height="520" width="267" vspace="33"/>
 </div>
