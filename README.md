@@ -8,6 +8,6 @@ Used MVVM, RxJava, LiveData and Room.
  height="520" width="270" align="left"/>
 <img src="https://github.com/joysoi/NotesApp/blob/master/Screenshots/Screenshot_1541181801.png" 
  height="520" width="280" align="left"/>
- <br>
+div {line-height:25px;} 
  <img src="https://github.com/joysoi/NotesApp/blob/master/Screenshots/Screenshot_1541181811.png" 
  height="520" width="267" vspace="33"/>
