@@ -1,5 +1,5 @@
 # NotesApp
-<br>
+
 Overview:<br>
 Simple app for creating, saving and editing notes.
 <br>
